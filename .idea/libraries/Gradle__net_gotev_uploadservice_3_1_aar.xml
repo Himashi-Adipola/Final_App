@@ -1,0 +1,19 @@
+<component name="libraryTable">
+  <library name="Gradle: net.gotev:uploadservice:3.1@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/00306485dd73a4c5cdf0f9b31f921d93/jetified-uploadservice-3.1/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/e02f5698fb166783022310e8dc4d3bf5/jetified-uploadservice-3.1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/e02f5698fb166783022310e8dc4d3bf5/jetified-uploadservice-3.1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/e02f5698fb166783022310e8dc4d3bf5/jetified-uploadservice-3.1/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/87ae70492c3f16ccd3d50483aa830285/jetified-uploadservice-3.1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/87ae70492c3f16ccd3d50483aa830285/jetified-uploadservice-3.1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/87ae70492c3f16ccd3d50483aa830285/jetified-uploadservice-3.1/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.gotev/uploadservice/3.1/c73ac982a5c4020469237f98db48d4f2cedeecc5/uploadservice-3.1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.gotev/uploadservice/3.1/a934301f18d9135631b40ddf8a33bebb740d2bfc/uploadservice-3.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
